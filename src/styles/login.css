@@ -1,0 +1,13 @@
+.wrapper {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  width: 550px;
+  border: 1px lightblue solid;
+  border-radius: 30px;
+  padding: 30px;
+}
